@@ -3,68 +3,68 @@ This repository contains detailed notes and resources for preparing for the GATE
 
 # **Subjects Covered**
 ## **1. Probability and Statistics**
-Counting (permutations and combinations)
+* Counting (permutations and combinations)
 
-Probability axioms, sample space, events (independent, mutually exclusive)
+* Probability axioms, sample space, events (independent, mutually exclusive)
 
-Marginal, conditional, and joint probability
+* Marginal, conditional, and joint probability
 
-Bayes Theorem, conditional expectation, and variance
+* Bayes Theorem, conditional expectation, and variance
 
-Measures of central tendency: mean, median, mode
+* Measures of central tendency: mean, median, mode
 
-Measures of dispersion: standard deviation, correlation, and covariance
+* Measures of dispersion: standard deviation, correlation, and covariance
 
-Random variables: discrete and continuous
+* Random variables: discrete and continuous
 
-Probability distributions: uniform, Bernoulli, binomial, Poisson, exponential, normal, t-distribution, chi-squared
+* Probability distributions: uniform, Bernoulli, binomial, Poisson, exponential, normal, t-distribution, chi-squared
 
-Cumulative distribution function (CDF), conditional PDF
+* Cumulative distribution function (CDF), conditional PDF
 
-Central limit theorem, confidence intervals, z-test, t-test, chi-squared test
+* Central limit theorem, confidence intervals, z-test, t-test, chi-squared test
 
 ## **2. Linear Algebra**
-Vector spaces, subspaces, linear dependence/independence of vectors
+* Vector spaces, subspaces, linear dependence/independence of vectors
 
-Matrix operations: projection, orthogonal, idempotent, partition matrices and their properties
+* Matrix operations: projection, orthogonal, idempotent, partition matrices and their properties
 
-Systems of linear equations, Gaussian elimination
+* Systems of linear equations, Gaussian elimination
 
-Eigenvalues, eigenvectors, determinant, rank, nullity
+* Eigenvalues, eigenvectors, determinant, rank, nullity
 
-Projections, LU decomposition, singular value decomposition (SVD)
+* Projections, LU decomposition, singular value decomposition (SVD)
 
 ## **3. Calculus and Optimization**
-Functions of a single variable, limit, continuity, differentiability
+* Functions of a single variable, limit, continuity, differentiability
 
-Taylor series expansion, maxima and minima
+* Taylor series expansion, maxima and minima
 
-Single-variable optimization techniques
+* Single-variable optimization techniques
 
 ## **4. Programming, Data Structures, and Algorithms**
-Programming Language: Python
+* **Programming Language:** Python
 
-Data Structures: Stacks, queues, linked lists, trees, hash tables
+* **Data Structures:** Stacks, queues, linked lists, trees, hash tables
 
-Search Algorithms: Linear search, binary search
+* **Search Algorithms:** Linear search, binary search
 
-Sorting Algorithms: Selection sort, bubble sort, insertion sort, merge sort, quicksort
+* **Sorting Algorithms:** Selection sort, bubble sort, insertion sort, merge sort, quicksort
 
-Graph Theory: Introduction to graphs, basic graph traversal algorithms (BFS, DFS), shortest path algorithms
+* **Graph Theory:** Introduction to graphs, basic graph traversal algorithms (BFS, DFS), shortest path algorithms
 
 ## **5. Database Management and Warehousing**
-ER model, relational model, relational algebra, tuple calculus
+* ER model, relational model, relational algebra, tuple calculus
 
-SQL queries, integrity constraints, normalization (normal forms)
+* SQL queries, integrity constraints, normalization (normal forms)
 
-File organization, indexing, data transformation (normalization, discretization, sampling, compression)
+* File organization, indexing, data transformation (normalization, discretization, sampling, compression)
 
-Data warehousing: Schema for multidimensional data models, concept hierarchies
+* Data warehousing: Schema for multidimensional data models, concept hierarchies
 
-Measures in data warehousing: Categorization, computation
+* Measures in data warehousing: Categorization, computation
 
 ## **6. Machine Learning**
-Supervised Learning:
+* **Supervised Learning:**
 
 Regression (simple linear, multiple linear, ridge)
 
@@ -74,29 +74,29 @@ Support Vector Machines, multi-layer perceptron, feed-forward neural networks
 
 Bias-variance trade-off, cross-validation (leave-one-out, k-folds)
 
-Unsupervised Learning:
+* **Unsupervised Learning:**
 
 Clustering algorithms (k-means, k-medoids, hierarchical clustering: top-down, bottom-up)
 
 Dimensionality reduction (Principal Component Analysis - PCA)
 
 ## **7. Artificial Intelligence**
-Search: Informed, uninformed, and adversarial search algorithms
+* **Search:** Informed, uninformed, and adversarial search algorithms
 
-Logic: Propositional logic, predicate logic
+* **Logic:** Propositional logic, predicate logic
 
-Reasoning Under Uncertainty:
+* **Reasoning Under Uncertainty:**
 
 Conditional independence representation
 
 Exact inference (variable elimination), approximate inference (sampling)
 
 ## **8. Aptitude**
-Quantitative Aptitude: Percentages, ratios, proportions, averages, profit and loss, simple and compound interest, time and work, time and distance
+* **Quantitative Aptitude:** Percentages, ratios, proportions, averages, profit and loss, simple and compound interest, time and work, time and distance
 
-Logical Reasoning: Syllogisms, logical connectives, number series, coding-decoding, puzzles, seating arrangement
+* **Logical Reasoning:** Syllogisms, logical connectives, number series, coding-decoding, puzzles, seating arrangement
 
-Spatial Aptitude: Visualization, pattern recognition, mental rotation, mirror and water image-based problems, shape fitting, paper folding, figure completion
+* **Spatial Aptitude:** Visualization, pattern recognition, mental rotation, mirror and water image-based problems, shape fitting, paper folding, figure completion
 
 # **Usage**
 This repository serves as a comprehensive guide for students preparing for the GATE Data Science (DA) examination. You can access notes for each subject, revise core concepts, and practice problems across topics in data science and AI.
