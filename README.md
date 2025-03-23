@@ -66,19 +66,19 @@ This repository contains detailed notes and resources for preparing for the GATE
 ## **6. Machine Learning**
 * **Supervised Learning:**
 
-Regression (simple linear, multiple linear, ridge)
+  - Regression (simple linear, multiple linear, ridge)
 
-Classification (logistic regression, k-nearest neighbor, Naive Bayes classifier, linear discriminant analysis, decision trees)
+  - Classification (logistic regression, k-nearest neighbor, Naive Bayes classifier, linear discriminant analysis, decision trees)
 
-Support Vector Machines, multi-layer perceptron, feed-forward neural networks
+  - Support Vector Machines, multi-layer perceptron, feed-forward neural networks
 
-Bias-variance trade-off, cross-validation (leave-one-out, k-folds)
+  - Bias-variance trade-off, cross-validation (leave-one-out, k-folds)
 
 * **Unsupervised Learning:**
 
-Clustering algorithms (k-means, k-medoids, hierarchical clustering: top-down, bottom-up)
+  - Clustering algorithms (k-means, k-medoids, hierarchical clustering: top-down, bottom-up)
 
-Dimensionality reduction (Principal Component Analysis - PCA)
+  - Dimensionality reduction (Principal Component Analysis - PCA)
 
 ## **7. Artificial Intelligence**
 * **Search:** Informed, uninformed, and adversarial search algorithms
@@ -87,9 +87,9 @@ Dimensionality reduction (Principal Component Analysis - PCA)
 
 * **Reasoning Under Uncertainty:**
 
-Conditional independence representation
+  - Conditional independence representation
 
-Exact inference (variable elimination), approximate inference (sampling)
+  - Exact inference (variable elimination), approximate inference (sampling)
 
 ## **8. Aptitude**
 * **Quantitative Aptitude:** Percentages, ratios, proportions, averages, profit and loss, simple and compound interest, time and work, time and distance
